@@ -2,9 +2,9 @@ import yaml
 import os
 
 # Prefix for project label
-prefix = "enterprise-services"
+prefix = ""
 # An absolute path, example: /Users/chasen/boost_projects/__apex_group_gitlab/gl-go-super
-root_path = "/Users/chasen/boost_projects/__apex_group_gitlab/gl-go-super"
+root_path = ""
 # A relative path, example: apps
 apps_path = "apps"
 # Scanners that you'd like to deploy
