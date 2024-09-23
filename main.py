@@ -3,7 +3,7 @@ import os
 
 # Prefix for project label
 prefix = ""
-# An absolute path, example: /Users/chasen/boost_projects/__apex_group_gitlab/gl-go-super
+# An absolute path, example: /Users/user/repository
 root_path = ""
 # A relative path, example: apps
 apps_path = "apps"
